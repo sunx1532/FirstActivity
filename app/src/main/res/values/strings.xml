@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+    <string name="btn1">Button</string>
+    <string name="menu1">Add</string>
+    <string name="menu2">Remove</string>
+    <string name="btn2">Button2</string>
+</resources>
